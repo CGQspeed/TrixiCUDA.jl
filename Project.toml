@@ -3,8 +3,14 @@ uuid = "5056661c-942a-472c-b3bc-01507f717a60"
 authors = ["Huiyu Xie"]
 version = "1.0.0-DEV"
 
+[deps]
+BenchmarkTools = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
+CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
+Trixi = "a7f1ee26-1774-49b1-8366-f1abc58fbfcb"
+TrixiBase = "9a0f1c46-06d5-4909-a5a3-ce25d3fa3284"
+
 [compat]
-julia = "1.6.7"
+julia = "1.9"
 
 [extras]
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
