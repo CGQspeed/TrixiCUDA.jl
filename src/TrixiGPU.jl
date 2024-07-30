@@ -1,5 +1,6 @@
 module TrixiGPU
 
-# Write your package code here.
+export greet_your_package_name
+include("function.jl")
 
 end
