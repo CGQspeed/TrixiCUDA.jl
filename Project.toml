@@ -1,0 +1,13 @@
+name = "TrixiGPU"
+uuid = "5056661c-942a-472c-b3bc-01507f717a60"
+authors = ["Huiyu Xie"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.6.7"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
