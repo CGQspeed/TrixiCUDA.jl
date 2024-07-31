@@ -37,7 +37,7 @@ Then a file ending with `.nsys-rep` (e.g. `report1.nsys-rep`) will be created in
 
 ## View Profile
 
-Exit the Julia REPL and retrive data from the `.nsys-rep` file.
+Exit the Julia REPL and retrieve data from the `.nsys-rep` file.
 
 There are many ways to customize the view of the profile data. Here, we simply mention three methods that can be directly displayed in your terminal.
 
