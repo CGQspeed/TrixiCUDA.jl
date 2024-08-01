@@ -10,6 +10,7 @@ Trixi = "a7f1ee26-1774-49b1-8366-f1abc58fbfcb"
 TrixiBase = "9a0f1c46-06d5-4909-a5a3-ce25d3fa3284"
 
 [compat]
+BenchmarkTools = "1"
 CUDA = "5"
 TrixiBase = "0.1"
 julia = "1.10"
